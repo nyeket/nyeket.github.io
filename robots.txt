@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://nyeket.github.io/sitemap.txt
